@@ -1,0 +1,3 @@
+[submodule "Fluent.qml"]
+	path = Fluent.qml
+	url = https://github.com/jstzwj/Fluent.qml.git
